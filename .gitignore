@@ -1,6 +1,36 @@
-# TypeScript incremental build files
-*.tsbuildinfo
+# Dependencies
+node_modules/
+
+# Package manager
+.pnpm-store/
 
 # Build output
 dist/
-node_modules
+build/
+coverage/
+
+# Turbo
+.turbo/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Prisma
+prisma/dev.db
+prisma/dev.db-journal
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# OS
+.DS_Store
