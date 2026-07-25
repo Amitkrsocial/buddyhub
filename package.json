@@ -1,0 +1,20 @@
+{
+  "name": "buddyhub",
+  "private": true,
+  "packageManager": "pnpm@10",
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
+    "typecheck": "turbo run typecheck",
+    "format": "biome format . --write",
+    "check": "biome check .",
+    "clean": "turbo run clean"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2",
+    "turbo": "^2",
+    "typescript": "^5.9"
+  }
+}
