@@ -1,0 +1,4 @@
+
+> @buddyhub/logger@0.0.1 build /workspaces/buddyhub/packages/logger
+> tsc -p tsconfig.json
+

@@ -1,0 +1,4 @@
+
+> @buddyhub/logger@0.0.1 typecheck /workspaces/buddyhub/packages/logger
+> tsc --noEmit
+

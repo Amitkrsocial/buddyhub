@@ -1,8 +1,5 @@
-node_modules
-.next
-dist
-coverage
-.env
-.env.local
-.turbo
-pnpm-lock.yaml
+# TypeScript incremental build files
+*.tsbuildinfo
+
+# Build output
+dist/

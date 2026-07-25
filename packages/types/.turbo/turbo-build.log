@@ -1,0 +1,4 @@
+
+> @buddyhub/types@0.0.1 build /workspaces/buddyhub/packages/types
+> tsc -p tsconfig.json
+

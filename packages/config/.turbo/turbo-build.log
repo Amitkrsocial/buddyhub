@@ -1,0 +1,4 @@
+
+> @buddyhub/config@0.0.1 build /workspaces/buddyhub/packages/config
+> tsc -p tsconfig.json
+

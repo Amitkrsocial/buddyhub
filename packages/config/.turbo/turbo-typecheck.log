@@ -1,0 +1,4 @@
+
+> @buddyhub/config@0.0.1 typecheck /workspaces/buddyhub/packages/config
+> tsc --noEmit
+
